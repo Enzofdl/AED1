@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\temp.facom.007\desktop\lab 07\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1695244436 source:c:\users\filip\onedrive\Área de trabalho\lab 09\ex. a\listac.c
+	<stdio.h>
+	<stdlib.h>
+	"listaC.h"
+
+1695244436 c:\users\filip\onedrive\Área de trabalho\lab 09\ex. a\listac.h
+
+1695244436 source:c:\users\filip\onedrive\Área de trabalho\lab 09\ex. a\main.c
+	<stdio.h>
+	<stdlib.h>
+
