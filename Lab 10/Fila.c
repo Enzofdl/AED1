@@ -99,6 +99,7 @@ int removeneg(fila* l){
     while(quant>0){
         remover(l, &aux);
         if(aux >= 0) inserir(l, aux);
+        quant--;
     }
     return 0;
     }
