@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1698267102 source:c:\users\temp.facom.011\desktop\lab pilha\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1698265231 c:\users\temp.facom.011\desktop\lab pilha\pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1698267113 c:\users\temp.facom.011\desktop\lab pilha\pilha\pilha.h
+
+1698267122 source:c:\users\temp.facom.011\desktop\lab pilha\pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
