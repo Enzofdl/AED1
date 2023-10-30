@@ -30,18 +30,16 @@ int main()
 
 pilha* binario(int a)
 {
- int j;
+
  pilha* p = criar();
+ if(a == 0) push(p, 0);
+
+ else {
  while(a > 0){
-    j = 0;
-    while(j<1 && a>0){
-        j++;
-        a--;
-    }
-    push(p, j);
+        push(p, a%2);
+        a = a/2;
  }
-
+ }
  return p;
-
 
 }
